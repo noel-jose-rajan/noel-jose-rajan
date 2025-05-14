@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Noel Jose Rajan</h1>
-<h3 align="center">DevOps & Web Engineer | Linux Geek | Self-hosting Enthusiast</h3>
+<h3 align="center">Software Engineer | Developer of Solutions | Linux Geek | Self-hosting Enthusiast</h3>
 
 ---
 
 ### 🧠 About Me:
 
-- 🔭 I’m currently working on **automated deployment pipelines and self-hosted cloud infra**
-- 🌱 I’m currently learning **Kubernetes, Advanced Observability, and Golang internals**
-- 💬 Ask me about **Linux, DevOps, Web development, Self-hosting**
-- 🧰 Always building things from scratch and running them on bare metal
+- 🔭 I’m currently building **software applications and systems** to solve real-world problems, with a focus on **web development and backend architecture**.
+- 🌱 I’m growing my knowledge in **Kubernetes, Advanced Observability, Golang internals, C++, Kotlin (Jetpack Compose), and the philosophy of simplicity**.
+- 💬 Ask me about **Linux, software engineering, self-hosting, cloud infrastructure, DevOps, and building resilient systems**.
+- 🧰 Always crafting solutions from the ground up and embracing the art of building on bare metal.
+- 🕊️ I believe in creating with precision and peace — balance is key to both software and life.
 
 ---
 
@@ -35,6 +36,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-03DAC6?logo=jetpack-compose&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Valkey-9B59B6?logo=valkey&logoColor=white&style=flat-square"/>
 </p>
 
 ---
@@ -61,8 +66,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
